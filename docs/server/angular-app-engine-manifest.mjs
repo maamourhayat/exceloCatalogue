@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/exceloCatalogue',
+  basePath: '/mon-site-angular',
   supportedLocales: {
   "en-US": ""
 },
